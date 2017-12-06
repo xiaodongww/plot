@@ -1,5 +1,5 @@
 # original link: https://www.cnblogs.com/altlb/p/7160191.html
-# Please connact me if this infringe on your copyright.
+# Please contact me if this infringe on your copyright.
 
 # encoding=utf-8
 import matplotlib.pyplot as plt
